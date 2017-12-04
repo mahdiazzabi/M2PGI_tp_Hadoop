@@ -1,4 +1,4 @@
-Exercice 1 :
+﻿Exercice 1 :
 
     Question 1.1 :
 
@@ -64,6 +64,4 @@ Exercice 2 :
              - bretagne 
 
          3. Ne connaissant pas a priori la taille de la structure (HashMap), un processus peut essayer d'utiliser plus de resources que disponible. Une exception OutOfMemory devrait être levé lors de l'éxécution.
-
-Exercice 3 :
 
